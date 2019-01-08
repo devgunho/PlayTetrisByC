@@ -607,7 +607,7 @@ void check_game_over(void){
 			gotoxy(x, y + 0); printf("▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤"); //게임오버 메세지 
 			gotoxy(x, y + 1); printf("▤                              ▤");
 			gotoxy(x, y + 2); printf("▤  +-----------------------+   ▤");
-			gotoxy(x, y + 3); printf("▤  |  G A M E  O V E R..   |   ▤");
+			gotoxy(x, y + 3); printf("▤  |  G A M E  O V E R ... |   ▤");
 			gotoxy(x, y + 4); printf("▤  +-----------------------+   ▤");
 			gotoxy(x, y + 5); printf("▤   YOUR SCORE: %6d         ▤", score);
 			gotoxy(x, y + 6); printf("▤                              ▤");
