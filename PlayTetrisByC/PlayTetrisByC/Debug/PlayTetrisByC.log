@@ -1,0 +1,13 @@
+﻿빌드 시작: 2019-01-09 오전 4:42:37
+     1>2 노드의 "E:\#STUDY_ver.18.12.09\#000. C\Making Game By C\play-tetris-c\PlayTetrisByC\PlayTetrisByC\PlayTetrisByC.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\VisualStudio2013_Ultimate\Ultimate_2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt PlayTetrisCodeByC.c
+         PlayTetrisCodeByC.c
+       Link:
+         D:\VisualStudio2013_Ultimate\Ultimate_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\#STUDY_ver.18.12.09\#000. C\Making Game By C\play-tetris-c\PlayTetrisByC\Debug\PlayTetrisByC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\#STUDY_ver.18.12.09\#000. C\Making Game By C\play-tetris-c\PlayTetrisByC\Debug\PlayTetrisByC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\#STUDY_ver.18.12.09\#000. C\Making Game By C\play-tetris-c\PlayTetrisByC\Debug\PlayTetrisByC.lib" /MACHINE:X86 Debug\PlayTetrisCodeByC.obj
+         PlayTetrisByC.vcxproj -> E:\#STUDY_ver.18.12.09\#000. C\Making Game By C\play-tetris-c\PlayTetrisByC\Debug\PlayTetrisByC.exe
+     1>"E:\#STUDY_ver.18.12.09\#000. C\Making Game By C\play-tetris-c\PlayTetrisByC\PlayTetrisByC\PlayTetrisByC.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.15
