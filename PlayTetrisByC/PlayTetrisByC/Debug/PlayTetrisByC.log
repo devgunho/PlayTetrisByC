@@ -1,4 +1,4 @@
-﻿빌드 시작: 2019-01-09 오전 4:42:37
+﻿빌드 시작: 2019-01-09 오전 4:57:20
      1>2 노드의 "E:\#STUDY_ver.18.12.09\#000. C\Making Game By C\play-tetris-c\PlayTetrisByC\PlayTetrisByC\PlayTetrisByC.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          D:\VisualStudio2013_Ultimate\Ultimate_2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt PlayTetrisCodeByC.c
@@ -10,4 +10,4 @@
 
 빌드했습니다.
 
-경과 시간: 00:00:01.15
+경과 시간: 00:00:01.34

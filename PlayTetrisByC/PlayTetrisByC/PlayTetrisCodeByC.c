@@ -156,7 +156,7 @@ void title(void){
 	gotoxy(x, y + 2); printf("¡à¡à¡à¡á              ¡à¡á  ¡á"); Sleep(100);
 	gotoxy(x, y + 3); printf("¡á¡á¡à¡á¡á  ¡à  ¡á  ¡à¡à¡á¡à¡à"); Sleep(100);
 	gotoxy(x, y + 4); printf("¡á¡á  ¡á¡à¡à¡à¡á¡á¡á¡à¡á¡á¡à¡à"); Sleep(100);
-	gotoxy(x, y + 5); printf("Play Tetris By C"); Sleep(100);
+	gotoxy(x, y + 5); printf("       Play Tetris By C"); Sleep(100);
 	gotoxy(x + 5, y + 2); printf("T E T R I S"); Sleep(100);
 	gotoxy(x, y + 7); printf("Please Enter Any Key to Start..");
 	gotoxy(x, y + 9); printf("  ¡â   : Shift");
