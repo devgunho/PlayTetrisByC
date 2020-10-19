@@ -1,18 +1,31 @@
-# PlayTetrisByC
+# PlayTetrisByC 
+
+### Environment
+
+- Windows
+- Microsoft Visual Studio
+
+<br/>
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/41619898/75116958-bb032600-56b0-11ea-940e-f90005f9ac2d.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/41619898/75116958-bb032600-56b0-11ea-940e-f90005f9ac2d.png"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/41619898/75116960-bdfe1680-56b0-11ea-8ff4-2eed68d785aa.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/41619898/75116960-bdfe1680-56b0-11ea-8ff4-2eed68d785aa.png"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/41619898/75089586-a2eeb200-559d-11ea-8d8d-abd1a9af8dab.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/41619898/75089586-a2eeb200-559d-11ea-8d8d-abd1a9af8dab.png"/>
+</p>
 
 > **Best Score by https://github.com/melli0505 (2019.10.28)**
 
+<br/>
 
-
-### Code
+### Code Detail
 
 ```c++
 #define _CRT_NONSTDC_NO_WARNINGS    // 비표준 함수를 사용했을 때 에러 방지
@@ -693,6 +706,6 @@ void pause(void) { //게임 일시정지 함수
 }
 ```
 
+<br/>
 
-
-### Year : 2015
+### Year of Coding : 2015
